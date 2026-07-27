@@ -1,7 +1,17 @@
 aid: incluyeme
 name: Incluyeme
-description: Incluyeme is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Incluyeme.com is a Latin American social enterprise, founded in 2013 by Gabriel
+  Marcolongo, working toward the social and labor inclusion of people with disabilities.
+  Its online platform connects candidates with disabilities to inclusive employers,
+  offering job listings, virtual training courses, scholarships, and mentorship for
+  individuals, alongside inclusive-hiring consulting, talent sourcing, staff training,
+  and physical/web accessibility evaluation for companies. Operating across roughly
+  a dozen countries in Latin America (Argentina, Chile, Peru, Colombia, Mexico,
+  Uruguay, Paraguay and more), it has registered hundreds of thousands of people
+  with disabilities and placed thousands into roles with 100+ corporate clients.
+  Surfaced as a 500 Global portfolio company and profiled in the API Evangelist
+  network; it publishes no public developer API.
 url: https://raw.githubusercontent.com/api-evangelist/incluyeme/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +19,33 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://www.incluyeme.com/wp-content/uploads/2020/12/logo-dec2.png
 tags:
 - Company
+- Disability Inclusion
+- Employment
+- Recruiting
+- Job Board
+- HR Tech
+- Accessibility
+- Diversity Equity and Inclusion
+- Social Enterprise
+- Latin America
+- Training
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +54,27 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://incluyeme.com
+  url: https://www.incluyeme.com
+- type: Blog
+  url: https://www.incluyeme.com/blog/
+- type: Support
+  url: https://www.incluyeme.com/contactanos/
+- type: About
+  url: https://www.incluyeme.com/equipo/
+- type: SignUp
+  url: https://www.incluyeme.com/busco-trabajo/
+- type: TermsOfService
+  url: https://www.incluyeme.com/terminos-y-condiciones/
+- type: PrivacyPolicy
+  url: https://www.incluyeme.com/politica-de-privacidad/
+- type: Accessibility
+  url: https://www.incluyeme.com/lineamientos-de-accesibilidad/
+- type: LLMsTxt
+  url: llms/incluyeme-llms.txt
+- type: DomainSecurity
+  url: security/incluyeme-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
