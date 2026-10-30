@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Incluyeme is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Incluyeme.com is a Latin American social enterprise, founded in 2013 by Gabriel Marcolongo, working toward the social and labor inclusion of people with disabilities. Its online platform connects candidates with disabilities to inclusive employers, offering job listings, virtual training courses, scholarships, and mentorship for individuals, alongside inclusive-hiring consulting, talent sourcing, staff training, and physical/web accessibility evaluation for companies. Operating across roughly a dozen countries in Latin America (Argentina, Chile, Peru, Colombia, Mexico, Uruguay, Paraguay and more), it has registered hundreds of thousands of people with disabilities and placed thousands into roles with 100+ corporate clients. Surfaced as a 500 Global portfolio company and profiled in the API Evangelist network; it publishes no public developer API.
 
-Backed by: 500-global — https://incluyeme.com
+**Areas:** Company · Disability Inclusion · Employment · Recruiting · Job Board · Human Resources · Accessibility · Diversity Equity and Inclusion · Social Enterprise · Latin America · Training
+
+## Incluyeme on APIs.io
+
+Everything profiled for Incluyeme is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/incluyeme/](https://apis.io/providers/incluyeme/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Incluyeme Domain Security](https://apis.io/security/incluyeme/incluyeme-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.incluyeme.com)
+- [Sign up](https://www.incluyeme.com/busco-trabajo/)
+- [Support](https://www.incluyeme.com/contactanos/)
+- [Blog](https://www.incluyeme.com/blog/)
+- [Terms of service](https://www.incluyeme.com/terminos-y-condiciones/)
+- [Privacy policy](https://www.incluyeme.com/politica-de-privacidad/)
+
+## API Evangelist rating
+
+**Kin Score 13.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 34.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Employment & Payroll
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/incluyeme/](https://apis.io/providers/incluyeme/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Incluyeme: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/incluyeme/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
